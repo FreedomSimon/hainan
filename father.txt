@@ -8,4 +8,9 @@ int main()
 }
 Testing a branch
  in china everyone have a dream
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+ I love my family and hope my family better and better
+	
+>>>>>>> feature
