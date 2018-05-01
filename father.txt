@@ -15,3 +15,5 @@ Creating a new branch is quick & simple.
 	
 >>>>>>> feature
 meng
+
+623 has no power
